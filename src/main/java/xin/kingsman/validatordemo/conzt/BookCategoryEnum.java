@@ -18,11 +18,11 @@ public enum BookCategoryEnum {
     /**
      * 文明史
      */
-    CB(2, "思辨哲学"),
+    CB(2, "文明史"),
     /**
      * 自然地理
      */
-    GB(3, "思辨哲学");
+    GB(3, "自然地理");
 
     private final Integer number;
     private final String name;
