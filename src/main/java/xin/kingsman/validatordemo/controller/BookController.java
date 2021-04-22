@@ -1,4 +1,4 @@
-package xin.kingsman.validatordemo;
+package xin.kingsman.validatordemo.controller;
 
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;

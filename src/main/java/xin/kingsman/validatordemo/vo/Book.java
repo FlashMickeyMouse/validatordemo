@@ -2,7 +2,7 @@ package xin.kingsman.validatordemo.vo;
 
 
 import lombok.Data;
-import xin.kingsman.validatordemo.BookCategoryEnum;
+import xin.kingsman.validatordemo.conzt.BookCategoryEnum;
 import xin.kingsman.validatordemo.customvalidationenum.EnumCheck;
 import xin.kingsman.validatordemo.validationgroup.BookCreateGroup;
 import xin.kingsman.validatordemo.validationgroup.BookUpdateGroup;

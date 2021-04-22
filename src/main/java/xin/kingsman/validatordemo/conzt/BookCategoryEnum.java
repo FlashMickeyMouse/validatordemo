@@ -1,4 +1,4 @@
-package xin.kingsman.validatordemo;
+package xin.kingsman.validatordemo.conzt;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
